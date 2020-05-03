@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "880581046009",
+    "firebase_url": "https://signup-e6dfa.firebaseio.com",
+    "project_id": "signup-e6dfa",
+    "storage_bucket": "signup-e6dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880581046009:android:47357abf5f8d0d76777c28",
+        "android_client_info": {
+          "package_name": "com.example.ppm_r_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880581046009-p1vo5o5nhl8f7d51v6pqltu4l4npjutc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-FVA6MCGmKAzoCAVBx_cix7yWb6QbSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880581046009-p1vo5o5nhl8f7d51v6pqltu4l4npjutc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880581046009:android:ffe81047f99dd9da777c28",
+        "android_client_info": {
+          "package_name": "com.example.trackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880581046009-p1vo5o5nhl8f7d51v6pqltu4l4npjutc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-FVA6MCGmKAzoCAVBx_cix7yWb6QbSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880581046009-p1vo5o5nhl8f7d51v6pqltu4l4npjutc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
